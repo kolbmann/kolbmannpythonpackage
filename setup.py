@@ -1,13 +1,13 @@
 from setuptools import setup
 
-setup(name='Ryba Python Package',
+setup(name='Kolbmann Python Package',
      version='0.1',
      description='Read a matrix asnd run BLAST searches',
      url='TBD',
-     author='Megan Ryba',
-     author_email='megan.ryba@selu.edu',
+     author='Christina Kolbmann',
+     author_email='christina.kolbmann@selu.edu',
      license='MIT',
-     packages=['rybapythonpackage'],
+     packages=['kolbmannpythonpackage'],
      install_requires=[
          'dendropy',
          'biopython',
